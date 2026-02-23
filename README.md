@@ -1,4 +1,4 @@
-<!-- if i get any build errors, i'll try my best to fix them, since the mod is getting ported rn -->
+<!-- if i get any build errors, i'll try my best to fix them, since this mod is getting ported rn -->
 
 # Sprite Frames Unity
 
